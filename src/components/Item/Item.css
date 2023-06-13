@@ -1,0 +1,32 @@
+.card{
+
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    
+    
+    
+    
+}
+
+.img-Item{
+    
+        width: 100%;
+        height: auto;
+      
+}
+
+.card-contenido{
+    padding: 16px;
+}
+
+.card-contenedor{
+    
+   display: flex; 
+   flex-direction: row; 
+   justify-content: space-around;
+   align-items: stretch;
+   padding: 3px; 
+} 

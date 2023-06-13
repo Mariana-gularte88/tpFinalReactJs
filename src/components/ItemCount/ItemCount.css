@@ -1,0 +1,34 @@
+.contenedor-contador{
+    width:  150
+    px;
+    border: 1px solid #eee;
+    padding: 1rem;
+    background-color: #d3eeff;
+    color: #fff;
+    text-align:  center;
+    border-radius: 1.5rem;
+}
+
+.button{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 8rem;
+    color: #fff;
+    cursor: pointer;
+}
+
+.restar{
+    background-color:#f9d99a ;
+}
+
+.sumar{
+    background-color: #f9d99a;
+}
+
+.carrito{
+    background-color:#f9d99a ;
+    
+}
